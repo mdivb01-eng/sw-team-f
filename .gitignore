@@ -1,0 +1,10 @@
+node_modules/
+.env
+dist/
+server/logs/**/*.log
+
+# Claude / 개발 도구
+feature_list.json
+claude-progress.txt
+.claude/
+CLAUDE.md
